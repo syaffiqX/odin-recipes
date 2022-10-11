@@ -1,0 +1,22 @@
+:root {
+    background-color: grey;
+    font-family: sans-serif, serif;
+    color: white;
+
+}
+
+h1 {
+    font-family: serif;
+    text-align: center;
+}
+
+img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+}
+
+div {
+    text-align: center;
+}
